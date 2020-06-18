@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="whatsapp_bundles">
-        <item>$3.00 Daily (20MB)</item>
-        <item>$8.00 Daily (45MB)</item>
-        <item>$9.00 Weekly (65MB)</item>
-        <item>$19.00 Weekly (140MB)</item>
-        <item>$34.00 Monthly (240MB)</item>
-        <item>$53.00 Monthly (400MB)</item>
+        <item>$1.00 Daily (4MB)</item>
+        <item>$3.50 Daily (12MB)</item>
+        <item>$5.50 Daily (20MB)</item>
+        <item>$12.00 Daily (45MB)</item>
+        <item>$17.00 Weekly (65MB)</item>
+        <item>$35.00 Weekly (140MB)</item>
+        <item>$58.00 Monthly (240MB)</item>
+        <item>$95.00 Monthly (400MB)</item>
     </string-array>
 </resources>
