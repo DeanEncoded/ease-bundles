@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="monthly_bundles">
+        <item>$45.00 for 270MB</item>
+        <item>$125.00 for 700MB</item>
+        <item>$200.00 for 1.15GB</item>
+        <item>$335.00 for 2.1GB</item>
+        <item>$430.00 for 3.1GB</item>
+    </string-array>
+</resources>

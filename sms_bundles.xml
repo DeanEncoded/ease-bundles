@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sms_bundles">
+        <item>Weekly 75 SMS - $3.00</item>
+        <item>Weekly 125 SMS - $5.00</item>
+        <item>Weekly 200 SMS - $8.00</item>
+        <item>Weekly 300 SMS - $12.00</item>
+    </string-array>
+</resources>
