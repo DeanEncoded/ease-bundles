@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="instagram_bundles">
-        <item>$3.00 Daily (20MB)</item>
-        <item>$8.00 Daily (45MB)</item>
-        <item>$19.00 Weekly (140MB)</item>
-        <item>$53.00 Monthly (400MB)</item>
+        <item>$4.00 Daily (20MB)</item>
+        <item>$9.00 Daily (45MB)</item>
+        <item>$25.00 Weekly (140MB)</item>
+        <item>$65.00 Monthly (400MB)</item>
     </string-array>
 </resources>

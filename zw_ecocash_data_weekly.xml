@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weekly_bundles">
-        <item>$4.50 for 25MB</item>
-        <item>$10.00 for 60MB</item>
-        <item>$26.00 for 160MB</item>
-        <item>$53.00 for 350MB</item>
-        <item>$100.00 for 700MB</item>
+        
+        <item>$5.50 for 20MB</item>
+        <item>$16.00 for 60MB</item>
+        <item>$42.00 for 160MB</item>
+        <item>$65.00 for 250MB</item>
+        <item>$80.00 for 350MB</item>
+        <item>$152.00 for 700MB</item>
     </string-array>
 </resources>
